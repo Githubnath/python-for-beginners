@@ -1,11 +1,14 @@
 Introduction to Python
+
 If you've never written a single line of code before, this is exactly where you should start.
 Today, I'll introduce you to Python—one of the easiest and most powerful programming languages in the world.
 By the end of this lesson, you'll understand what Python is, why millions of people learn it, and how it can open doors to careers in software development, AI, data science, cybersecurity, and 
 more.
+
 One of the easiest programming languages in the world is Python, and that's exactly what we'll be learning in this FREE beginner-friendly series.
 📖 What is Python?
 Python is a programming language.
+
 A programming language is simply a way humans communicate with computers.
 Think of it this way...
 Imagine you own a smart robot.
@@ -17,6 +20,7 @@ For example:
 - Open the door.
 - Turn on the light.
 Without instructions, the robot will do nothing.
+
 A computer works the same way.
 Python is one of the languages we use to give computers instructions.
 💡 A Simple Real-Life Example
@@ -24,6 +28,7 @@ Imagine you walk into a restaurant.
 You tell the waiter:
 «"Please bring me fried rice and chicken."»
 The waiter understands your request and delivers your food.
+
 In programming:
 - 👨 You are the programmer.
 - 📝 Python is the language you use.
